@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Browser Automated Search Console", "Browser Automated Search Console\Browser Automated Search Console.csproj", "{6588B0FC-C364-46FF-AF45-521FAAA4DFFC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6588B0FC-C364-46FF-AF45-521FAAA4DFFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6588B0FC-C364-46FF-AF45-521FAAA4DFFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6588B0FC-C364-46FF-AF45-521FAAA4DFFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6588B0FC-C364-46FF-AF45-521FAAA4DFFC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3FAF4DFF-7D92-4557-88BA-16CDD10CF6D0}
+	EndGlobalSection
+EndGlobal
