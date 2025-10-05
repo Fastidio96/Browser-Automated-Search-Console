@@ -7,7 +7,7 @@
         public static void Header()
         {
             GiveMeSomeSpace();
-            Msg("BROWSER AUTOMATED SEARCH CONSOLE by Raffaello Perazzi");
+            Msg("BROWSER AUTOMATED SEARCH CONSOLE by Fastidio96");
             GiveMeSomeSpace();
         }
 
